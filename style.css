@@ -1,0 +1,45 @@
+
+.naslov{
+    color:#808080;
+    font-size: 28px;
+    text-align: center;
+}
+.table{
+    width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+   
+}
+.table, thead{
+    border-collapse: collapse;
+   
+}
+#th{
+    border-style: double;
+    border-color: black;
+    border-width: 20px;
+    border:dashed;
+}
+#thr{
+    border-style: double;
+    border-color: black;
+}
+#rb{
+    width: 100px; 
+}
+#rb1{
+    text-align: center;
+}
+#br{
+    text-align: center;
+}
+.tijelo{
+    background-color:#E9ECEF;
+    border-spacing: 0px;
+    
+}
+.neparni
+{
+    background-color:#FFFFFF;
+}
